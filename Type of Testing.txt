@@ -16,7 +16,9 @@ ans:whitebox testing
 
 System testing
 What is system Testing?
+System testing is the execution of the software in its final configuration
 System Testing is conducted by ________
+
 It is a type of (blackbox/whitebox testing)
 
 Acceptance testing
