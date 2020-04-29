@@ -7,3 +7,4 @@ Intergration Testing
 What is Intergration Testing?
 Integration Testing is conducted by ___________
 It is type of (blackbox/whitebox testing)
+
