@@ -18,10 +18,14 @@ System testing
 What is system Testing?
 System testing is the execution of the software in its final configuration
 System Testing is conducted by ________
-
+ans:Programmers
 It is a type of (blackbox/whitebox testing)
+ans:Whitebox testing
 
 Acceptance testing
 What is acceptance testing
+ans:Acceptance testing is to evaluate and validate that the system's functionality meets the customer's requirements 
 Acceptance Testing is conducted by _________
+ans:end-users that will buy the game
 It is type of (Blackbox/Whitebox testing)
+ans:WhiteBox testing
