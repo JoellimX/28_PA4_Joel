@@ -13,3 +13,13 @@ Integration Testing is conducted by ___________
 ans:programmers
 It is type of (blackbox/whitebox testing)
 ans:whitebox testing
+
+System testing
+What is system Testing?
+System Testing is conducted by ________
+It is a type of (blackbox/whitebox testing)
+
+Acceptance testing
+What is acceptance testing
+Acceptance Testing is conducted by _________
+It is type of (Blackbox/Whitebox testing)
